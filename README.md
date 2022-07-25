@@ -1,5 +1,5 @@
 # ABC-Car-Sales
-BRIED DESCRIPTION   
+BRIEF DESCRIPTION   
 Web app of ABC Car Sales with Spring Boot and MVC. A car auction portal for user who want to sale and bid car.
 
 <hr/>
