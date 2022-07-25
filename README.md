@@ -49,13 +49,13 @@ HOW TO RUN
 
 PREVIEW SOME SCREENSHOT   
 
-<img src="img/landingpage.JPG" alt="page-land" width="50%"/>
-<img src="img/landingpage.JPG" alt="page-land" width="50%"/>
-<img src="img/landingpage.JPG" alt="page-land" width="50%"/>
-<img src="img/landingpage.JPG" alt="page-land" width="50%"/>
-<img src="img/landingpage.JPG" alt="page-land" width="50%"/>
-<img src="img/landingpage.JPG" alt="page-land" width="50%"/>
-<img src="img/landingpage.JPG" alt="page-land" width="50%"/>
-<img src="img/landingpage.JPG" alt="page-land" width="50%"/>
-
+<img src="img/rs2.JPG" alt="page-login" width="50%"/>
+<img src="img/rs3-1.JPG" alt="page-regis" width="50%"/>
+<img src="img/rs1-1.JPG" alt="page-home" width="50%"/>
+<img src="img/rs4-2.JPG" alt="page-profile" width="50%"/>
+<img src="img/rs6.JPG" alt="page-salecar" width="50%"/>
+<img src="img/rs7.JPG" alt="page-viewcar" width="50%"/>
+<img src="img/rs8.JPG" alt="page-search" width="50%"/>
+<img src="img/rs9.JPG" alt="page-admin-users" width="50%"/>
+<img src="img/rs11.JPG" alt="page-admin-cars" width="50%"/>
 
