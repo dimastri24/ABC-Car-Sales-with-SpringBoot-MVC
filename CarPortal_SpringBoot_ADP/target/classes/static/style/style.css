@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+
+.h-custom {
+	height: calc(100% - 73px);
+}
+
+@media ( max-width : 450px) {
+	.h-custom {
+		height: 100%;
+	}
+}
+
+.bd-placeholder-img {
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	user-select: none;
+}
+
+@media ( min-width : 768px) {
+	.bd-placeholder-img-lg {
+		font-size: 3.5rem;
+	}
+}
+
+.bi {
+	vertical-align: -.125em;
+	fill: currentColor;
+}
+
+.gradient-custom {
+	/* fallback for old browsers */
+	background: #f6d365;
+	/* Chrome 10-25, Safari 5.1-6 */
+	background: -webkit-linear-gradient(to right bottom, rgba(246, 211, 101, 1),
+		rgba(253, 160, 133, 1));
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+	background: linear-gradient(to right bottom, rgba(246, 211, 101, 1),
+		rgba(253, 160, 133, 1))
+}
