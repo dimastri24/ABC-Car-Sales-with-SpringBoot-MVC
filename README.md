@@ -27,7 +27,7 @@ Functionality that admin could perform
 
 <hr/>
 
-TECHNOLGIES USED & SYSTEM REQUIREMENTS
+TECHNOLGIES USED & SYSTEM REQUIREMENTS    
 Backend: Java SE 1.8, Spring Boot  
 Frontend: JSP, HTML 5, CSS, Bootstrap 5   
 DBMS: MySQL 8.0.27    
